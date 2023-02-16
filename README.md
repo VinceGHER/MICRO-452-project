@@ -10,7 +10,7 @@ Global navigaiton: solves the traveling salesman problem to connect all the goal
 Local naviagation: distance sensores are used to avoid abstacles that arise in the path
 Filtering: a kalman filter is implemented to track the position of the robot. It merges the information coming from the vision and from the odometry. Therefore, if the the camera is obstructed, the position estimation will only be based on odometry.
 
-![Watch the video](https://img.youtube.com/vi/KVVF_peBu2s/maxresdefault.jpg)](https://www.youtube.com/watch?v=KVVF_peBu2s)
+![Watch the video](https://img.youtube.com/vi/KVVF_peBu2s/maxresdefault.jpg)](https://youtu.be/KVVF_peBu2s)
 
 
 For a detailed explanation of the project, see the folder "Report.ipynb".
