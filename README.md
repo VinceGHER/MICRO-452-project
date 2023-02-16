@@ -1,11 +1,5 @@
 # **Mobile Robotics Project Report** 
 
-**Group 36:** <br>
-Vincent Gherold <br>
-Vicente Carbon <br>
-Yifei Luo <br>
-Emeric de Galembert <br>
-
 
 Project of robotics that implements: vision, global navigation, local navigation and filtering.
 
